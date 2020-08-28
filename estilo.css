@@ -30,7 +30,7 @@ ul {
 
 /*(NAVIGATION)*/
 .nav-main {
-	font-size: 17px;
+	font-size: 30px;
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
@@ -61,7 +61,7 @@ ul {
 
 .nav-main ul.nav-menu {
 	flex: 1;
-	margin-left: 200px;
+	margin-left: 20px;
 }
 
 /*(SHOW CASE)*/
